@@ -6,6 +6,7 @@ How To... Desenvolvimento Java usando VS Code
 1) Instalar o JDK
 
 - Realizar a instalação de acordo com a Plataforma usando o arquivo MSI Installer
+
 https://www.oracle.com/java/technologies/downloads/#jdk19-windows
 
 2) Instalar o VS Code
